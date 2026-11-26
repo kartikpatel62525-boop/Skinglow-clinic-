@@ -1,0 +1,6 @@
+{
+  "name": "SkinGlow Clinic – Dr. Shantanu Kesharwani",
+  "description": "Advanced Skin, Hair & Laser Dermatology Clinic in Sagar, MP led by Dr. Shantanu Kesharwani (MBBS, MD Skin & VD).",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
